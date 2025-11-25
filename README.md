@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **Marcos.vinicios811@gmail.com or +55 (21) 97074-6918**
 
-- 📄 Know about my experiences [https://github.com/Elswize?tab=repositories](https://github.com/Elswize?tab=repositories)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
